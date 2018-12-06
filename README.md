@@ -1,1 +1,1 @@
-# MyJJavaCourse
+# Implementation of battleship game
